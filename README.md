@@ -17,7 +17,7 @@ The **Normal distribution** is a continuous probability distribution that models
 
 ## Contents
 - `normal_distribution.ipynb`: Jupyter notebook with the Python code and example
-- `slides.pdf`: The presentation slides explaining the **Normal distribution**
+- `normal distribution slides.pdf`: The presentation slides explaining the **Normal distribution**
 - `README.md`: This README file
 
 ## Video 
