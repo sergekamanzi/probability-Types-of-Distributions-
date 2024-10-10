@@ -1,8 +1,8 @@
-**Bernoulli distribution** with the **Normal distribution**:
+**Normal distribution**:
 
 ---
 
-# Normal Distribution Presentation
+# Normal Distribution 
 This repository contains the materials for the **Normal Distribution** presentation, as part of **Group 6's assignment**.
 
 ## Project Overview
@@ -20,20 +20,20 @@ The **Normal distribution** is a continuous probability distribution that models
 - `slides.pdf`: The presentation slides explaining the **Normal distribution**
 - `README.md`: This README file
 
-## Video Presentation
+## Video 
 You can view the 3-minute video presentation of our project here: Video Presentation Link
 https://vimeo.com/1018442337
 ## Presentation Slides
 The slides explaining the **Normal distribution** can be accessed here: Slides Link
 
-## How to Run the Code
+## Run the Code here
 Clone the repository:
 
 ```bash
 https://github.com/sergekamanzi/probability-Types-of-Distributions-.git
 ```
 
-Open the Jupyter notebook `Python_Code_Implementation.ipynb` to run the code and see the outputs:
+Jupyter notebook `Python_Code_Implementation.ipynb` to run the code and see the outputs:
 
 ```bash
 Normal_Distributions.ipynb
